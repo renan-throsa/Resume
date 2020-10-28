@@ -1,5 +1,5 @@
 # Renan Thiago da Silva Rosa
-**Studying development web and mobile with .Net Core, React and Xamarim.**
+**Studying development web and mobile with DotNet Core, React, and Xamarin.**
 
 :house:    Brazil - Belém - PA <br>
 :iphone:   **+55 (91)** 998291510 <br>
@@ -25,8 +25,8 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ### :pushpin: General
 * Advanced Programming Logic.
-* Good english, able to read and comprehend.
-* Good knowledge with SQLDatabases.
+* Good English, able to read and comprehend.
+* Good knowledge of SQL databases.
 * Database Modeling (DER).
 * Unit & Integration tests.
 * Design Patterns.
@@ -44,12 +44,12 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ### :fire: Back-end
 * C#
-  * .Net Core  
+  * DotNet Core  
 * Python
     * Flask
     
 ### :iphone: Mobile
-* Xamarim
+* Xamarin
 
 ### :muscle: Other Programming Languages
 * C / C++ 
@@ -78,8 +78,9 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 * [**TestDrive**](https://github.com/RenanCbcc/TestDrive): A multiplatform app meant to schedule test drives.
 
 ## :triangular_flag_on_post: What do I study? How do I study?
-* I am currently a student of [**Alura**](https://cursos.alura.com.br), seeking knowledge of the aforementioned stacks and best practices, beside that I have **skills** for database modeling (DER - chen notation). In my Computer Science degree, I am learning techniques of **software optimization, performance, code patterns, clean code, ...**
+* I am currently a student at [** Alura **] (https://cursos.alura.com.br), seeking knowledge in the aforementioned stacks and best practices,
+always aiming to increase my productivity. In addition, I always try to test my new knowledge acquired in a project.
 <br><br>
-* I always try to put into practice my knowledge learned in a project. Here you can see a [list](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) with all courses I have fished 
+* As I said, I'm always looking forward to putting into practice knowledge learned in a project. Here you can see a [list](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) with all courses I have fished 
 <br><br>
-* I usually study new stacks and technologies, I am always researching or reading books, I solve most of my daily problems with researches, I'm adept at **agile methodologies** like **Scrum**.
+* In addition to all I've already written, I attempt to improve my knowledge of stacks and technologies that I already know. I also try to get to know more about a subject by researching, reading books, or listening to podcasts. I solve most of my daily problems with researches, I'm adept at **agile methodologies** like **Scrum**.
