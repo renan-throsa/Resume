@@ -81,6 +81,6 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 * I am currently a student at [** Alura **] (https://cursos.alura.com.br), seeking knowledge in the aforementioned stacks and best practices,
 always aiming to increase my productivity. In addition, I always try to test my new knowledge acquired in a project.
 <br><br>
-* As I said, I'm always looking forward to putting into practice knowledge learned in a project. Here you can see a [list](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) with all courses I have fished 
+* As I said, I'm always looking forward to putting into practice knowledge learned in a project. Here you can see a [list](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) with all courses I have finished. 
 <br><br>
 * In addition to all I've already written, I attempt to improve my knowledge of stacks and technologies that I already know. I also try to get to know more about a subject by researching, reading books, or listening to podcasts. I solve most of my daily problems with researches, I'm adept at **agile methodologies** like **Scrum**.
