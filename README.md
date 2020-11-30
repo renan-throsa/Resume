@@ -1,5 +1,5 @@
 # Renan Thiago da Silva Rosa
-**Studying development web and mobile with DotNet Core, React, and Xamarin.**
+**Studying web and mobile development with .Net Core, React, and Xamarin.**
 
 :house:    Brazil - Belém - PA <br>
 :iphone:   **+55 (91)** 998291510 <br>
@@ -8,14 +8,14 @@
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
 ## :bell: About me
-My name is Renan Rosa. I'm passionate about creating apps that help people to solve real-world problems or, at least help them to save time. I am currently focusing on **DotNet Core, React, and Xamarin!** in my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my vacant time I also dedicate to learning and self-improvement.
+My name is Renan Rosa. I'm passionate about creating apps that help people to solve real-world problems or, at least help them to save time. I am currently focusing on **.Net Core, React, and Xamarin!** in my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my vacant time I also dedicate to learning and self-improvement.
 
 ## :mortar_board: Educational Background
 Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br>
 
 ## :computer: Experience
 
-### [Tribunal Regional do Trabalho da 8º Região](https://www.trt8.jus.br/)
+### [Regional Labor Court](https://www.trt8.jus.br/)
 * Test analyst with **Selenium Java** (January 2017 - January 2018)
 * **description:**  
    * In search of new challenges, I joined as an intern at TRT8 to learn and grow from more experienced developers. My main task was to write and run test scrips with **selenium web driver** to assert if the product developed was free from bugs and generate reports about the software based on the result of these tests. In addition to that, I also was responsible to write, extend, or correct documentation about test cases.  
@@ -44,7 +44,7 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ### :fire: Back-end
 * C#
-  * DotNet Core  
+  * .Net Core  
 * Python
     * Flask
     
