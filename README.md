@@ -70,15 +70,20 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ## :open_file_folder: Projects
 * [**Ekklésia**](https://github.com/RenanCbcc/ekklesia): Open source web application that manages a small church and its affairs.
-* [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application that manages a local, small, market.
-* [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A multiplatform mobile application that consumes the api provided by the web app above.
-* [**Stock**](https://github.com/RenanCbcc/Stock): A progressive web app designed to mana small products, clients, and sales.
+* [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and api that manages a local, small, market built with Flask.
+* [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web api that meat to manage product, clients and transactions built with .Net Core.
+* [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Plataform mobile application that consumes the api provided by the Golden Leaf Api.
+* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): A progressive web app designed to mana small products, clients, and sales built with ReactJS.
+* [**Stock Back-End**](https://github.com/RenanCbcc/Stock-Back-End): A web api meat to manage a stock of small products a list of clients and sales built with .Net Core. 
 * [**TSbanck**](https://github.com/RenanCbcc/tsbank): A simple web app written in typescript.
 * [**Fiado**](https://github.com/RenanCbcc/Fiado): A simple web app meant to manage notes regarding sales.
 * [**TestDrive**](https://github.com/RenanCbcc/TestDrive): A multiplatform app meant to schedule test drives.
+* [**Apeperia**](https://github.com/RenanCbcc/apeperia): A simple responsive web page of an app store.
+* [**Fruteria**](https://github.com/RenanCbcc/fruteria): A simple responsive web page of a fruit market.
+* [**Game Store**](https://github.com/RenanCbcc/games-store): A simple responsive web page of an app store.
 
 ## :triangular_flag_on_post: What do I study? How do I study?
-* I am currently a student at [** Alura **] (https://cursos.alura.com.br), seeking knowledge in the aforementioned stacks and best practices,
+* I am currently a student at [**Alura**](https://cursos.alura.com.br), seeking knowledge in the aforementioned stacks and best practices,
 always aiming to increase my productivity. In addition, I always try to test my new knowledge acquired in a project.
 <br><br>
 * As I said, I'm always looking forward to putting into practice knowledge learned in a project. Here you can see a [list](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) with all courses I have finished. 
