@@ -73,7 +73,7 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 * [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and api that manages a local, small, market built with Flask.
 * [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web api that meat to manage product, clients and transactions built with .Net Core.
 * [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Plataform mobile application that consumes the api provided by the Golden Leaf Api.
-* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): A progressive web app designed to mana small products, clients, and sales built with ReactJS.
+* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): A progressive web app designed to manage small products, clients, and sales built with ReactJS.
 * [**Stock Back-End**](https://github.com/RenanCbcc/Stock-Back-End): A web api meat to manage a stock of small products a list of clients and sales built with .Net Core. 
 * [**TSbanck**](https://github.com/RenanCbcc/tsbank): A simple web app written in typescript.
 * [**Fiado**](https://github.com/RenanCbcc/Fiado): A simple web app meant to manage notes regarding sales.
