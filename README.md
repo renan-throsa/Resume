@@ -17,7 +17,7 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ### [Regional Labor Court](https://www.trt8.jus.br/)
 * Test analyst with **Selenium Java** (January 2017 - January 2018)
-* **description:**  
+* **Description:**  
    * In search of new challenges, I joined as an intern at TRT8 to learn and grow from more experienced developers. My main task was to write and run test scrips with **selenium web driver** to assert if the product developed was free from bugs and generate reports about the software based on the result of these tests. In addition to that, I also was responsible to write, extend, or correct documentation about test cases.  
 
 
@@ -61,6 +61,7 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 ### :floppy_disk: Data Base
 * MySQL
 * Sql Server
+* MongoDB
 
 ### :octocat: Version Control Systems
 * Git / GitHub.
@@ -70,11 +71,11 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ## :open_file_folder: Projects
 * [**Ekklésia**](https://github.com/RenanCbcc/ekklesia): Open source web application that manages a small church and its affairs.
-* [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and api that manages a local, small, market built with Flask.
-* [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web api that meat to manage product, clients and transactions built with .Net Core.
-* [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Plataform mobile application that consumes the api provided by the Golden Leaf Api.
-* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): A progressive web app designed to manage small products, clients, and sales built with ReactJS.
-* [**Stock Back-End**](https://github.com/RenanCbcc/Stock-Back-End): A web api meat to manage a stock of small products a list of clients and sales built with .Net Core. 
+* [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and API that manages a local, small, market built with Flask.
+* [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web API that meat to manage product, clients, and transactions built with .Net Core.
+* [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Platform mobile application that consumes the API provided by the Golden Leaf Api.
+* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): A single-page application designed to manage small products, clients, and sales built with ReactJS.
+* [**Stock Back-End**](https://github.com/RenanCbcc/Stock-Back-End): A web API meat to manage a stock of small products a list of clients and sales built with .Net Core. 
 * [**TSbanck**](https://github.com/RenanCbcc/tsbank): A simple web app written in typescript.
 * [**Fiado**](https://github.com/RenanCbcc/Fiado): A simple web app meant to manage notes regarding sales.
 * [**TestDrive**](https://github.com/RenanCbcc/TestDrive): A multiplatform app meant to schedule test drives.
