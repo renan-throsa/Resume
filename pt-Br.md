@@ -1,9 +1,9 @@
 # Renan Thiago da Silva Rosa
-**Estudando desenvolvimento web e mobile com DotNet Core, React e Xamarin.**
+**Estudando desenvolvimento web e mobile com .Net Core, React e Xamarin.**
 
 :house:    Brasil - Belém - PA <br>
 :iphone:   **+55 (91)** 998291510 <br>
-:email:  **renannojosa@gmail.com**
+:email:  **renan.throsa@gmail.com**
 
 ##### Olá recrutador:smiley:, espero que minha história o mantenha entretido até o final da página, obrigado por se interessar pelo meu currículo :beginner:.
 
@@ -65,7 +65,8 @@ sobre os casos de teste.
 
 ### :floppy_disk: Banco de Dados
 * MySQL
-* Sql Server
+* SQL Server
+* MongoDB
 
 ### :octocat: Controle de versionamento.
 * Git / GitHub.
@@ -74,19 +75,25 @@ sobre os casos de teste.
 * Heroku
 
 ## :open_file_folder: Projetos
-* [**Ekklésia**](https://github.com/RenanCbcc/ekklesia): Aplicativo da web de código aberto que gerencia uma pequena igreja e seus assuntos.
-* [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Aplicativo da web de código aberto que gerencia um mercado local pequeno.
+* [**Ekklésia**](https://github.com/RenanCbcc/ekklesia): Aplicativo web que gerencia uma pequena igreja e seus assuntos.
+* [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Aplicativo web e API que gerencia um pequeno mercado local feita com Flask.
+* [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): Uma API web que gerencia produtos, clientes e transações feita .Net Core.
 * [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): Um aplicativo móvel multiplataforma que consome a API fornecida pelo aplicativo da web acima.
 * [**Stock**](https://github.com/RenanCbcc/Stock): Uma wpa projetado para gerenciar pequenos produtos, clientes e vendas.
-* [**TSbanck**](https://github.com/RenanCbcc/tsbank): Um aplicativo da web simples escrito em typescript.
-* [**Fiado**](https://github.com/RenanCbcc/Fiado): Um aplicativo da web simples destinado a gerenciar notas sobre vendas.
-* [**TestDrive**](https://github.com/RenanCbcc/TestDrive): Um aplicativo multiplataforma destinado a agendar test drives.
+* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): Uma spa feita para consumir or recursos de uma API de gerenciamento de estoque de productos, lista de clientes, vendas e pagamentos escrita com ReactJS.
+* [**Stock Back-End**](https://github.com/RenanCbcc/Stock-Back-End): Uma web API para gerenciar um estoque de productos, lista de clientes, vendas e pagamentos escrita com .Net Core. 
+* [**TSbanck**](https://github.com/RenanCbcc/tsbank): Uma página web simples escrita em typescript.
+* [**Fiado**](https://github.com/RenanCbcc/Fiado): Um aplicativo web simples destinado a gerenciar notas sobre vendas.
+* [**Apeperia**](https://github.com/RenanCbcc/apeperia): A simple responsive web page of an app store.
+* [**Fruteria**](https://github.com/RenanCbcc/fruteria): A simple responsive web page of a fruit market.
+* [**Game Store**](https://github.com/RenanCbcc/games-store): A simple responsive web page of an app store.
+
 
 ## :triangular_flag_on_post: O que eu estudo? Como eu estudo?
-* Atualmente sou aluno da [**Alura**](https://cursos.alura.com.br), buscando conhecimento nas stacks citadas e melhores práticas, 
-sempre visando aumentar minha produtividade. Além disso, sempre tento estressar meus novos conhecimentos adiquiridos em um projeto.
+* Atualmente sou aluno da [**Alura**](https://cursos.alura.com.br). Estou sempre buscando conhecimento nas stacks citadas e em melhores práticas. 
+Estou sempre visando aumentar minha produtividade. Além disso, sempre tento estressar meus novos conhecimentos adiquiridos em um projeto novo ou exitente.
 <br> <br>
 * Aqui, pode-se ver uma [lista](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) com todos os cursos que concluí.
 <br> <br>
-* Tento aprimorar meu conhecimento de pilhas e tecnologias que já conheço. Também tento saber mais sobre um assunto pesquisando, lendo livros ou ouvindo podcasts. 
+* Tento aprimorar o meu conhecimento nas pilhas e tecnologias que já conheço. Também tento saber mais sobre um assunto pesquisando, lendo livros ou ouvindo podcasts. 
 Eu resolvo a maioria dos meus problemas diários com pesquisas. Sou adepto de **metodologias ágeis** como **Scrum**.
