@@ -1,92 +1,77 @@
-# Renan Thiago da Silva Rosa
-**Studying web and mobile development with .Net Core, React, and Xamarin.**
+# Renan Rosa
+**Full Stack Web Developer With ASP Net Core And Angular**
 
-:house:    Brazil - Belém - PA <br>
-:iphone:   **+55 (91)** 998291510 <br>
-:email:  **renannojosa@gmail.com**
+:house:    Brazil - Belém - PA <br>
+:iphone:   **+55 (91)** 998291510 <br>
+:email:  **renan.throsa@gmail.com**
 
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
 ## :bell: About me
-My name is Renan Rosa. I'm passionate about creating apps that help people to solve real-world problems or, at least help them to save time. I am currently focusing on **.Net Core, React, and Xamarin!** in my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my vacant time I also dedicate to learning and self-improvement.
+I'm a web developer with three years of experience in web applications of different domains. I am currently focusing on **Asp Net Core and Angular** In my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my spare time, I also dedicate myself to learning and self-improvement.
 
 ## :mortar_board: Educational Background
 Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br>
 
 ## :computer: Experience
 
+### [LDI - Development and Innovation Laboratory](https://www.linkedin.com/company/labldi/)
+* Web Developer (October 2022 - April 2024)
+* **Description:**  
+   * As a Full Stack Developer my role involved developing and enhancing functionalities for a web-based factory management system, which encompasses activities like tracking, acquisitions and monitoring the factory's inner workings.  
+
+### [AjaxIT](https://www.trt8.jus.br/)
+* Web Developer  (June 2021 - October 2022)
+* **Description:**  
+   * I was accountable for developing and maintaining systems that fulfilled the requirements of the National Electric System Operator (ONS). These systems deal with analysis, reporting, and metrics functionalities.  
+
+
 ### [Regional Labor Court](https://www.trt8.jus.br/)
-* Test analyst with **Selenium Java** (January 2017 - January 2018)
-* **Description:**  
-   * In search of new challenges, I joined as an intern at TRT8 to learn and grow from more experienced developers. My main task was to write and run test scrips with **selenium web driver** to assert if the product developed was free from bugs and generate reports about the software based on the result of these tests. In addition to that, I also was responsible to write, extend, or correct documentation about test cases.  
+* Test analyst with Selenium Java (January 2017 - January 2018)
+* **Description:**  
+   * In search of new challenges, I joined as an intern at TRT8 to learn and grow from more experienced developers. My main task was to write and test scripts with **selenium web driver** to assert if the product developed was free from bugs and generate reports about the software based on the results of these tests. In addition to that, I was also responsible for writing, extending, and correcting documentation about test cases. 
 
 
-## :books: Knowledges
-
-### :pushpin: General
-* Advanced Programming Logic.
-* Good English, able to read and comprehend.
-* Good knowledge of SQL databases.
-* Database Modeling (DER).
-* Unit & Integration tests.
-* Design Patterns.
+### :pushpin: Technical Skills
+* C#/
+* ASP NET Core
+* Entity Framework /Identity Framework 
+* HTML / CCS /Javascript 
+* Angular
+* SQL Server
+* Mongo 
 * Docker.
+ 
+ ## :books: What do I study? How do I study?
 
-### :penguin: Operational Systems
-* Linux.
-* Windows.
+I learn better by reading books and putting myself to the test in small projects. These projects are meant to showcase my years of experience and my learning path. Below you'll find a list of books that I read and what I have achieved by reading them.
 
-### :ocean: Front-end
-* HTML / CSS  
-* JavaScript
-    * ReactJs
-    * JQuery
-
-### :fire: Back-end
-* C#
-  * .Net Core  
-* Python
-    * Flask
-    
-### :iphone: Mobile
-* Xamarin
-
-### :muscle: Other Programming Languages
-* C / C++ 
-* Java
-* kotlin
-* Prolog
-* TypeScript
-
-### :floppy_disk: Data Base
-* MySQL
-* Sql Server
-* MongoDB
-
-### :octocat: Version Control Systems
-* Git / GitHub.
-
-## :cloud: Platform as a service
-* Heroku
+* [**Microservices in .NET, Second Edition**](https://www.manning.com/books/microservices-in-net-second-edition): is a beginner guide to building microservice applications using the .NET stack. 
+* [**ASP.NET Core in Action, Second Edition**](https://www.manning.com/books/asp-net-core-in-action-second-edition): is a comprehensive guide to creating web applications with ASP.NET Core 5.0. 
+* [**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action): teaches you how to access and update relational data from .NET applications.
+* [**CSS in Depth, Second Edition**](https://www.manning.com/books/css-in-depth-second-edition): deep dives into the CSS techniques used by the world's most skilled web developers.
+* [**RxJS in Action**](https://www.manning.com/books/rxjs-in-action): guides you to building a reactive web UI using RxJS.
+* [**Pro Angular 16**](https://www.manning.com/books/pro-angular-16): gives you everything you need to build Angular apps that are easy to test, easy to maintain, and easy to extend and scale. 
+* [**Secrets of the JavaScript Ninja, Second Edition**](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition): uses practical examples to clearly illustrate each core concept and technique. This book shows you how to master key JavaScript concepts such as functions, closures, objects, prototypes, and promises.  
+* [**Learn Docker in a Month of Lunches**](https://www.manning.com/books/learn-docker-in-a-month-of-lunches): introduces Docker concepts through a series of brief hands-on lessons. 
+* [**Learn Git in a Month of Lunches**](https://www.manning.com/books/learn-git-in-a-month-of-lunches): introduces the discipline of source code control using Git. This book concentrates on the components of Git you'll use every day.  
 
 ## :open_file_folder: Projects
-* [**Ekklésia**](https://github.com/RenanCbcc/ekklesia): Open source web application that manages a small church and its affairs.
+These projects showcase my years of experience as a student and a web developer. These projects are based on or guided by books that I've read, patterns that I've seen or things that I've been playing around with.
+
+* [**Ekklesia-Omega**](https://github.com/Minimalistware/Ekklesia-Omega): A web application that manages a small church and its affairs. It features an ASP Net core back end and an Angular front end. Originally, this project started as a friend's favour who needed help managing his small church. Initially, it served as a test case for the hard skills I acquired at my first job as a web developer. However, over time, it ended up as a playground for my technical readings. In this project I applied concepts from the books **ASP.NET Core in Action**, **Entity Framework Core in Action**,**Learn Docker in a Month of Lunches**, **Pro Angular 16** and **RxJS in Action**.
+
+* [**TSbanck**](https://github.com/RenanCbcc/tsbank): A simple web app written in typescript.
+* [**Hacker Rank**](https://github.com/renan-throsa/HackerRank): My implementation of the week preparation kit challenge. 
+
+* [**Microservices in .NET**](https://github.com/renan-throsa/Microservices-in-Action): Partial implementation of most important concepts that I've leaned from the book Microservices in .NET. In this project, I implemented a shopping story as a set of collaborating services using the microservices architectural style. I also used Docker to add queues, logging and a means to get all the services up and running in the simplest way possible.
+
+* [**EF-Core-in-Action**](https://github.com/renan-throsa/EF-Core-in-Action): Partial implementation of most important concepts that I've leaned from the book EF Core in Action. These concepts include: querying, persisting, tips on reading and writing, configuring relationships and migration, performance tuning and many other details about the Orm.
+
+* [**Css-in-Depth**](https://github.com/renan-throsa/Css-in-Depth): Partial implementation of most important concepts that I've leaned from the book Css in Depth. These concepts include float, flexbox, grid, positioning and modules.
+
+These projects represent a full-stack application for a small corner store. Unfortunately, I never managed to deploy it, but I learned a lot of things.
+
 * [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and API that manages a local, small, market built with Flask.
 * [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web API that meat to manage product, clients, and transactions built with .Net Core.
 * [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Platform mobile application that consumes the API provided by the Golden Leaf Api.
-* [**Stock Front-End**](https://github.com/RenanCbcc/stock-front-end): A single-page application designed to manage small products, clients, and sales built with ReactJS.
-* [**Stock Back-End**](https://github.com/RenanCbcc/Stock-Back-End): A web API meat to manage a stock of small products a list of clients and sales built with .Net Core. 
-* [**TSbanck**](https://github.com/RenanCbcc/tsbank): A simple web app written in typescript.
-* [**Fiado**](https://github.com/RenanCbcc/Fiado): A simple web app meant to manage notes regarding sales.
-* [**TestDrive**](https://github.com/RenanCbcc/TestDrive): A multiplatform app meant to schedule test drives.
-* [**Apeperia**](https://github.com/RenanCbcc/apeperia): A simple responsive web page of an app store.
-* [**Fruteria**](https://github.com/RenanCbcc/fruteria): A simple responsive web page of a fruit market.
-* [**Game Store**](https://github.com/RenanCbcc/games-store): A simple responsive web page of an app store.
-
-## :triangular_flag_on_post: What do I study? How do I study?
-* I am currently a student at [**Alura**](https://cursos.alura.com.br), seeking knowledge in the aforementioned stacks and best practices,
-always aiming to increase my productivity. In addition, I always try to test my new knowledge acquired in a project.
-<br><br>
-* As I said, I'm always looking forward to putting into practice knowledge learned in a project. Here you can see a [list](https://cursos.alura.com.br/user/renanrosa/fullCertificate/a57890dbb6b700bf240ff749ebfd913e) with all courses I have finished. 
-<br><br>
-* In addition to all I've already written, I attempt to improve my knowledge of stacks and technologies that I already know. I also try to get to know more about a subject by researching, reading books, or listening to podcasts. I solve most of my daily problems with researches, I'm adept at **agile methodologies** like **Scrum**.
