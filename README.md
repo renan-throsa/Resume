@@ -5,7 +5,7 @@
 :iphone:   **+55 (91)** 998291510 <br>
 :email:  **renan.throsa@gmail.com**
 
-##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
+##### Hi recruiter! I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume.
 
 ## :bell: About me
 I'm a web developer with three years of experience in web applications of different domains. I am currently focusing on **Asp Net Core and Angular** In my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my spare time, I also dedicate myself to learning and self-improvement.
@@ -17,19 +17,16 @@ Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br
 
 ### [LDI - Development and Innovation Laboratory](https://www.linkedin.com/company/labldi/)
 * Web Developer (October 2022 - April 2024)
-* **Description:**  
-   * As a Full Stack Developer my role involved developing and enhancing functionalities for a web-based factory management system, which encompasses activities like tracking, acquisitions and monitoring the factory's inner workings.  
+* As a Full Stack Developer my role involved developing and enhancing functionalities for a web-based factory management system, which encompasses activities like tracking, acquisitions and monitoring the factory's inner workings.  
 
 ### [AjaxIT](https://www.trt8.jus.br/)
 * Web Developer  (June 2021 - October 2022)
-* **Description:**  
-   * I was accountable for developing and maintaining systems that fulfilled the requirements of the National Electric System Operator (ONS). These systems deal with analysis, reporting, and metrics functionalities.  
+* I was accountable for developing and maintaining systems that fulfilled the requirements of the National Electric System Operator (ONS). These systems deal with analysis, reporting, and metrics functionalities.  
 
 
 ### [Regional Labor Court](https://www.trt8.jus.br/)
 * Test analyst with Selenium Java (January 2017 - January 2018)
-* **Description:**  
-   * In search of new challenges, I joined as an intern at TRT8 to learn and grow from more experienced developers. My main task was to write and test scripts with **selenium web driver** to assert if the product developed was free from bugs and generate reports about the software based on the results of these tests. In addition to that, I was also responsible for writing, extending, and correcting documentation about test cases. 
+* In search of new challenges, I joined as an intern at TRT8 to learn and grow from more experienced developers. My main task was to write and test scripts with **selenium web driver** to assert if the product developed was free from bugs and generate reports about the software based on the results of these tests. In addition to that, I was also responsible for writing, extending, and correcting documentation about test cases. 
 
 
 ### :pushpin: Technical Skills
@@ -54,7 +51,8 @@ I learn better by reading books and putting myself to the test in small projects
 * [**Pro Angular 16**](https://www.manning.com/books/pro-angular-16): gives you everything you need to build Angular apps that are easy to test, easy to maintain, and easy to extend and scale. 
 * [**Secrets of the JavaScript Ninja, Second Edition**](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition): uses practical examples to clearly illustrate each core concept and technique. This book shows you how to master key JavaScript concepts such as functions, closures, objects, prototypes, and promises.  
 * [**Learn Docker in a Month of Lunches**](https://www.manning.com/books/learn-docker-in-a-month-of-lunches): introduces Docker concepts through a series of brief hands-on lessons. 
-* [**Learn Git in a Month of Lunches**](https://www.manning.com/books/learn-git-in-a-month-of-lunches): introduces the discipline of source code control using Git. This book concentrates on the components of Git you'll use every day.  
+* [**Learn Git in a Month of Lunches**](https://www.manning.com/books/learn-git-in-a-month-of-lunches): introduces the discipline of source code control using Git. This book concentrates on the components of Git you'll use every day. 
+* [**T-SQL Fundamentals**](https://www.amazon.com.br/T-SQL-Fundamentals-Itzik-Ben-Gan/dp/0138102104): introduces querying and modifying data effectively with the latest T-SQL features.
 
 ## :open_file_folder: Projects
 These projects showcase my years of experience as a student and a web developer. These projects are based on or guided by books that I've read, patterns that I've seen or things that I've been playing around with.
@@ -70,7 +68,7 @@ These projects showcase my years of experience as a student and a web developer.
 
 * [**Css-in-Depth**](https://github.com/renan-throsa/Css-in-Depth): Partial implementation of most important concepts that I've leaned from the book Css in Depth. These concepts include float, flexbox, grid, positioning and modules.
 
-These projects represent a full-stack application for a small corner store. Unfortunately, I never managed to deploy it, but I learned a lot of things.
+These projects make up a full-stack application for a small corner store. Unfortunately, I never managed to deploy it, but I learned a lot of things.
 
 * [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and API that manages a local, small, market built with Flask.
 * [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web API that meat to manage product, clients, and transactions built with .Net Core.
