@@ -57,6 +57,8 @@ Eu aprendo melhor lendo livros e me testando em pequenos projetos. Esses projeto
 ## :open_file_folder: Projetos
 Esses projetos mostram minha experiência como estudante e desenvolvedor web. Eles são baseados em livros que li, padrões que observei ou coisas com as quais experimentei.
 
+* [**Technical Challenge - Intelectah**](https://github.com/renan-throsa/Concessionarias): O objetivo deste projeto foi desenvolver um aplicativo Web para gerenciar concessionárias de veículos usando ASP.NET MVC e Entity Framework. O sistema permitir o gerenciamento de fabricantes de veículos, veículos, concessionárias e vendas. Além disso, o sistema integra autenticação de usuário, relatórios e otimização de desempenho...
+
 * [**Ekklesia-Omega**](https://github.com/Minimalistware/Ekklesia-Omega): Uma aplicação web que gerencia uma pequena igreja e seus assuntos. Possui um backend ASP Net Core e um frontend Angular. Originalmente, este projeto começou como um favor a um amigo que precisava de ajuda para gerenciar sua pequena igreja. Inicialmente, serviu como um caso de teste para as habilidades técnicas que adquiri em meu primeiro emprego como desenvolvedor web. No entanto, ao longo do tempo, acabou se tornando um playground para minhas leituras técnicas. Neste projeto, apliquei conceitos dos livros **ASP.NET Core in Action**, **Entity Framework Core in Action**, **Learn Docker in a Month of Lunches**, **Pro Angular 16** e **RxJS in Action**.
 
 * [**TSbanck**](https://github.com/RenanCbcc/tsbank): Um aplicativo web simples escrito em TypeScript.
@@ -72,6 +74,6 @@ Esses projetos mostram minha experiência como estudante e desenvolvedor web. El
 Esses projetos são aplicação full-stack para uma pequena mercearia. Infelizmente, nunca consegui subir para produção, mas aprendi muitas coisas.
 
 * [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Aplicativo web de código aberto e API que gerencia um mercado local e pequeno, construído com Flask.
-* [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): Uma API web destinada a gerenciar produtos, clientes e transações, construída com .Net Core.
+* [**Golden Leaf Back-End**](https://github.com/renan-throsa/Golden-Leaf-Back-End): Uma API web destinada a gerenciar produtos, clientes e transações, construída com .Net Core.
 * [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): Um aplicativo móvel multiplataforma que consome a API fornecida pelo Golden Leaf Api.
 

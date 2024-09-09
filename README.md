@@ -8,7 +8,7 @@
 ##### Hi recruiter! I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume.
 
 ## :bell: About me
-I'm a web developer with three years of experience in web applications of different domains. I am currently focusing on **Asp Net Core and Angular** In my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my spare time, I also dedicate myself to learning and self-improvement.
+I'm a web developer with three years of working experience in web applications of different domains. I am currently focusing on **Asp Net Core and Angular** In my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my spare time, I also dedicate myself to learning and self-improvement.
 
 ## :mortar_board: Educational Background
 Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br>
@@ -57,6 +57,8 @@ I learn better by reading books and putting myself to the test in small projects
 ## :open_file_folder: Projects
 These projects showcase my years of experience as a student and a web developer. These projects are based on or guided by books that I've read, patterns that I've seen or things that I've been playing around with.
 
+* [**Technical Challenge - Intelectah**](https://github.com/renan-throsa/Concessionarias): The goal of this project was to develop a web application for managing vehicle dealerships using ASP.NET MVC and Entity Framework. The system should enable the management of vehicle manufacturers, vehicles, dealerships, and sales. Additionally, it should integrate user authentication, reporting, and performance optimization..
+
 * [**Ekklesia-Omega**](https://github.com/Minimalistware/Ekklesia-Omega): A web application that manages a small church and its affairs. It features an ASP Net core back end and an Angular front end. Originally, this project started as a friend's favour who needed help managing his small church. Initially, it served as a test case for the hard skills I acquired at my first job as a web developer. However, over time, it ended up as a playground for my technical readings. In this project I applied concepts from the books **ASP.NET Core in Action**, **Entity Framework Core in Action**,**Learn Docker in a Month of Lunches**, **Pro Angular 16** and **RxJS in Action**.
 
 * [**TSbanck**](https://github.com/RenanCbcc/tsbank): A simple web app written in typescript.
@@ -71,5 +73,5 @@ These projects showcase my years of experience as a student and a web developer.
 These projects make up a full-stack application for a small corner store. Unfortunately, I never managed to deploy it, but I learned a lot of things.
 
 * [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and API that manages a local, small, market built with Flask.
-* [**Golden Leaf Back-End**](https://github.com/RenanCbcc/GoldenLeafMobile): A web API that meat to manage product, clients, and transactions built with .Net Core.
+* [**Golden Leaf Back-End**](https://github.com/renan-throsa/Golden-Leaf-Back-End): A web API that meat to manage product, clients, and transactions built with .Net Core.
 * [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Platform mobile application that consumes the API provided by the Golden Leaf Api.
