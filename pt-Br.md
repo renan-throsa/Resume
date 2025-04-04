@@ -5,7 +5,7 @@
 :iphone:   **+55 (91)** 998291510 <br>
 :email:  **renan.throsa@gmail.com**
 
-##### Olá recrutador! Espero que minha história o mantenha entretido até o final da página. Obrigado por se interessar pelo meu currículo.
+##### Olá recrutador! Espero que minha história o mantenha entretido até o final da página. Obrigado por se interessar pelo meu currículo!
 
 ## :bell: Sobre mim
 Sou um desenvolvedor web com três anos de experiência em aplicações web de diferentes domínios. Atualmente, estou focado em **Asp Net Core e Angular**. No meu tempo livre, costumo ler livros ou ouvir podcasts, mas minha maior alegria hoje em dia é aprender a ser um programador melhor, então também me dedico ao aprendizado e ao autoaperfeiçoamento.
@@ -15,27 +15,43 @@ Universidade Federal do Pará **(UFPA)** - Bacharelado em Ciência da Computaç�
 
 ## :computer: Experiência
 
+### [Codgo.X](https://br.linkedin.com/company/codgo-x)
+* Desenvolvedor Web (Setembro de 2024 - Dezembro de 2024)
+* **Descrição:** Atuei como desenvolvedor Full Stack na conversão de um projeto legado para uma arquitetura e tecnologias mais modernas.As minhas principais responsabilidades incluíam:
+* Desenvolvimento e manutenção de soluções back-end em .NET Core.
+* Desenvolvimento de APIs REST e trabalho com banco de dados SQL Server.
+* Conversão de telas do legado para React.
+
 ### [LDI - Laboratório de Desenvolvimento e Inovação](https://www.linkedin.com/company/labldi/)
 * Desenvolvedor Web (Outubro de 2022 - Abril de 2024)
-* **Descrição:**
-   * Como Desenvolvedor Full Stack, meu papel envolvia desenvolver e aprimorar funcionalidades para um sistema de gerenciamento de fábrica baseado na web, que abrange atividades como rastreamento, aquisições e monitoramento do funcionamento interno da fábrica.
+* **Descrição:** Como Desenvolvedor Full Stack, meu papel envolvia desenvolver e aprimorar funcionalidades para um sistema de gerenciamento de fábrica baseado na web, que abrange atividades como rastreamento, aquisições e monitoramento do funcionamento interno da fábrica.
+Desenvolvimento de funcionalidades back-end utilizando C# e .NET Core.
+* Criação e otimização de interfaces de usuário com Angular.
+* Realização de estimativas de tarefas, condução de revisões de código e execução de testes
+para assegurar a qualidade do software.
+* Colaboração com equipes multidisciplinares para alinhar o desenvolvimento às
+necessidades do negócio e aos requisitos.
 
-### [AjaxIT](https://www.trt8.jus.br/)
+
+### [AjaxTI](https://www.trt8.jus.br/)
 * Desenvolvedor Web (Junho de 2021 - Outubro de 2022)
-* **Descrição:**
-   * Fui responsável pelo desenvolvimento e manutenção de sistemas que atendiam aos requisitos do Operador Nacional do Sistema Elétrico (ONS). Esses sistemas lidam com funcionalidades de análise, relatórios e métricas.
+* **Descrição:** Fui responsável pelo desenvolvimento e manutenção de sistemas que atendiam aos requisitos do Operador Nacional do Sistema Elétrico (ONS). Esses sistemas lidam com funcionalidades de análise, relatórios e métricas. Entre as minhas principais responsabilidades estavam:
+
+* Desenvolvimento e integração de novas funcionalidades, tanto no front-end quanto no
+back-end, para atender às demandas evolutivas do negócio.
+* Realização de manutenções, correções e atualizações no banco de dados, incluindo ajustes
+em tabelas, campos e stored procedures conforme necessário.
 
 ### [Tribunal Regional do Trabalho](https://www.trt8.jus.br/)
-* Analista de Testes com Selenium Java (Janeiro de 2017 - Janeiro de 2018)
-* **Descrição:**
-   * Em busca de novos desafios, ingressei como estagiário no TRT8 para aprender e crescer com desenvolvedores mais experientes. Minha principal tarefa era escrever e testar scripts com o **selenium web driver** para verificar se o produto desenvolvido estava livre de bugs e gerar relatórios sobre o software com base nos resultados desses testes. Além disso, também fui responsável por escrever, estender e corrigir a documentação sobre casos de teste.
+* Estágio em Controle de Qualidade (Janeiro de 2017 - Janeiro de 2018)
+* **Descrição:** Minha principal tarefa era escrever e testar scripts com o selenium web driver para verificar se o produto desenvolvido estava livre de bugs e gerar relatórios sobre o software com base nos resultados desses testes. Além disso, também fui responsável por escrever, estender e corrigir a documentação sobre os casos de teste.
 
 ### :pushpin: Habilidades Técnicas
-* C#/
+* C#
 * ASP NET Core
 * Entity Framework / Identity Framework
 * HTML / CSS / Javascript
-* Angular
+* Angular / React
 * SQL Server
 * MongoDB
 * Docker
@@ -50,9 +66,11 @@ Eu aprendo melhor lendo livros e me testando em pequenos projetos. Esses projeto
 * [**CSS in Depth, Second Edition**](https://www.manning.com/books/css-in-depth-second-edition): aprofunda-se nas técnicas CSS usadas pelos desenvolvedores web mais habilidosos do mundo.
 * [**RxJS in Action**](https://www.manning.com/books/rxjs-in-action): guia para construir uma interface de usuário reativa na web usando RxJS.
 * [**Pro Angular 16**](https://www.manning.com/books/pro-angular-16): oferece tudo o que você precisa para criar aplicativos Angular que são fáceis de testar, manter e estender.
+* [**React Quickly, Second Edition**](https://www.manning.com/books/react-quickly-second-edition):  guia você desde os primeiros passos até os aplicativos avançados. Você apreciará a cobertura atualizada dos componentes funcionais, dos hooks do React e da acessibilidade da Web, além de projetos interessantes para praticar suas novas habilidades.
 * [**Secrets of the JavaScript Ninja, Second Edition**](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition): usa exemplos práticos para ilustrar claramente cada conceito e técnica fundamental do JavaScript. Este livro ensina como dominar conceitos-chave do JavaScript, como funções, closures, objetos, protótipos e promessas.
 * [**Learn Docker in a Month of Lunches**](https://www.manning.com/books/learn-docker-in-a-month-of-lunches): introduz conceitos do Docker por meio de uma série de lições práticas rápidas.
 * [**Learn Git in a Month of Lunches**](https://www.manning.com/books/learn-git-in-a-month-of-lunches): introduz a disciplina de controle de código-fonte usando o Git. Este livro concentra-se nos componentes do Git que você usará diariamente.
+* [**T-SQL Fundamentals (Developer Reference)**](https://a.co/d/7ZpIxZo): aprenda os conceitos básicos do Transact-SQL e escreva códigos corretos e robustos para consultar e modificar dados com as tecnologias modernas de dados da Microsoft, como o SQL Server 2022. 
 
 ## :open_file_folder: Projetos
 Esses projetos mostram minha experiência como estudante e desenvolvedor web. Eles são baseados em livros que li, padrões que observei ou coisas com as quais experimentei.
