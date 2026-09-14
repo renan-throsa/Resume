@@ -1,14 +1,8 @@
-# Renan Rosa
-**Full Stack Web Developer With ASP Net Core And Angular**
+## :wave: Greatings! I'am Renan Rosa
 
-:house:    Brazil - Belém - PA <br>
-:iphone:   **+55 (91)** 998291510 <br>
-:email:  **renan.throsa@gmail.com**
+I'm a full stack web developer with three years of working experience in web applications. 
 
-##### Hi recruiter! I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume.
-
-## :bell: About me
-I'm a web developer with three years of working experience in web applications of different domains. I am currently focusing on **Asp Net Core and Angular** In my spare time, I usually read books or listen to podcasts, but my biggest joy nowadays is learning to be a better programmer, so in my spare time, I also dedicate myself to learning and self-improvement.
+I am currently working on improving my skills as a software developer by reading and puting together small projects.
 
 ## :mortar_board: Educational Background
 Federal University of Pará **(UFPA)** - Bachelor degree in Computer Science <br>
@@ -75,3 +69,10 @@ These projects make up a full-stack application for a small corner store. Unfort
 * [**Golden Leaf**](https://github.com/RenanCbcc/Golden_leaf): Open source web application and API that manages a local, small, market built with Flask.
 * [**Golden Leaf Back-End**](https://github.com/renan-throsa/Golden-Leaf-Back-End): A web API that meat to manage product, clients, and transactions built with .Net Core.
 * [**Golden Leaf Mobile**](https://github.com/RenanCbcc/GoldenLeafMobile): A Cross-Platform mobile application that consumes the API provided by the Golden Leaf Api.
+
+
+##  :postbox: Contact
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr) 
+
+email:  **renan.throsa@gmail.com**
